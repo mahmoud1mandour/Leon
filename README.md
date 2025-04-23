@@ -25,7 +25,7 @@ Leon is a simple and clean personal website built with only **HTML** and **CSS**
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/mahmoud/Leon.git
+   git clone https://github.com/mahmoud1mandour/Leon.git
    
 2. Open the index.html file in your browser.
 
