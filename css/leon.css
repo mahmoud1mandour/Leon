@@ -197,7 +197,7 @@ body {
 /* end header */
 /* Start Landing Section */
 .landing {
-  background-image: url(./images/landing.jpg);
+  background-image: url(../images/landing.jpg);
   background-size: cover;
   /* ده عشان لما عملت الهايت ب 100 طلع فيه سكرول يعني مش مالي الشاشة الي قدامي وده عشان فيه 64 بكسل دول هايت بتوع الهيدر
     ف هطرحهم كمان في جزء صغير الي هو المارجين الافتراضي بتاعي ال h1
