@@ -16,8 +16,9 @@ Leon is a simple and clean personal website built with only **HTML** and **CSS**
 
 ## 💻 Live Demo
 
-[Click here to view the live demo]([https://your-live-demo-link.com](https://mahmoud1mandour.github.io/Leon/))  
+[Click here to view the live demo](<[https://your-live-demo-link.com](https://mahmoud1mandour.github.io/Leon/)>)
 
+![App Screenshot](./images/fullscreen.png)
 
 ## 🚀 How to Use
 
@@ -25,9 +26,9 @@ Leon is a simple and clean personal website built with only **HTML** and **CSS**
 
    ```bash
    git clone https://github.com/mahmoud1mandour/Leon.git
-   
+
+   ```
+
 2. Open the index.html file in your browser.
 
 That’s it! No setup needed.
-
-
